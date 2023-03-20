@@ -40,7 +40,7 @@ public class ExportExcel {
     //下载路径
     public static final String downloadPath = "C:\\Users\\liangyt\\Desktop\\修改公式\\最新模板\\%s-%s\\";
     //访问cookie
-    public static final String cookie = "tdoc_uid=13102702692956305; wedoc_openid=wozbKqDgAAViLbnFW84hrjTo1kptMuvg; wedoc_sid=1pE1TYx4cUIunGNnALM5VQAA; wedoc_sids=13102702692956305&1pE1TYx4cUIunGNnALM5VQAA; wedoc_skey=13102702692956305&df63e231297d3663f308f7a49607bf83; wedoc_ticket=13102702692956305&CAESIH2QeVp8UL-yhRKokpo6WMEp5yJY7Rcxp_4slUmhNOn6";
+    public static final String cookie = "";
 
     public static void main(String[] args) {
         Map<String, String> docIdMap = webDiskList("i.1970325140031928.1688850478091595", "i.1970325140031928.1688850478091595_d.671171005NXaR", "");
